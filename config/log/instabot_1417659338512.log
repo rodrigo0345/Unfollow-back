@@ -1,0 +1,14 @@
+2022-04-16 17:56:17,092 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2022-04-16 17:56:17,093 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\rodrigo\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2022-04-16 17:56:17,093 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2022-04-16 17:56:17,337 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2022-04-16 17:56:17,554 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2022-04-16 17:56:17,747 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2022-04-16 17:56:17,940 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2022-04-16 17:56:18,122 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2022-04-16 17:56:18,122 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"Invalid Parameters","status":"fail","error_type":"missing_parameters"}'
+2022-04-16 17:56:18,122 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2022-04-16 17:56:18,123 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: Invalid Parameters
+2022-04-16 17:56:18,123 - instabot version: 0.117.0 (api) - INFO - Error type: missing_parameters
+2022-04-16 17:56:18,123 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2022-04-16 17:56:18,124 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
